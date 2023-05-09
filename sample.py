@@ -1,6 +1,6 @@
 def sum(arr):
-    ret=0
-    print("Hello world1")
+    ret = 0
+    print("Hello world")
     for i in arr:
-        ret+=i
+        ret += i
     return ret
